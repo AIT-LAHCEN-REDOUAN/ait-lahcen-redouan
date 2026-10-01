@@ -76,7 +76,7 @@ Laravel | React | Next.js | REST APIs
   <img src="https://cdn.simpleicons.org/nvidia/76B900" alt="NVIDIA" title="NVIDIA" width="42" height="42" />
 </p>
 
-IoT | MQTT | ThingsBoard | Edge AI | NVIDIA | Deep Learning
+IoT | MQTT | ThingsBoard | Edge AI | CUDA | Deep Learning
 
 ## Links
 
