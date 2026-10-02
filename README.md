@@ -82,5 +82,5 @@ IoT | MQTT | ThingsBoard | Edge AI | NVIDIA | Deep Learning
 
 - LinkedIn: [linkedin.com/in/ait-lahcen-redouan](https://www.linkedin.com/in/ait-lahcen-redouan/)
 - Gmail: [aitlahcenredouan071@gmail.com](mailto:aitlahcenredouan071@gmail.com)
-- LeetCode: [leetcode.com/u/ait-lahcen-redouan](https://leetcode.com/u/ait-lahcen-redouan/)
+<!-- - LeetCode: [leetcode.com/u/ait-lahcen-redouan](https://leetcode.com/u/ait-lahcen-redouan/) -->
 <!-- Add your verified Kaggle profile URL here before publishing. -->
