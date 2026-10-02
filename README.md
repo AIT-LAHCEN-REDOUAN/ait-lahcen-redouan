@@ -1,10 +1,3 @@
-<h1 align="center">AIT-LAHCEN REDOUAN</h1>
-
-
-<p align="center">
-  Morocco , Tangier
-</p>
-
 ## Technologies I Work With
 
 ### Programming and Query Languages
