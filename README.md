@@ -1,51 +1,86 @@
-# Redouan Ait-Lahcen
+<h1 align="center">AIT-LAHCEN REDOUAN</h1>
 
-## Data Engineer
 
-I build reliable batch and streaming data pipelines with Python, SQL, Apache Spark, Kafka, and Airflow. My focus is turning raw data into trustworthy, observable datasets that teams can use for analytics and decision-making.
+<p align="center">
+  Morocco , Tangier
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/ait-lahcen-redouan/)
+## Technologies I Work With
 
-## Featured projects
+### Programming and Query Languages
 
-### [Distributed Lakehouse Internship](https://github.com/AIT-LAHCEN-REDOUAN/My_Profile/tree/main/04-project-portfolio/distributed-lakehouse-internship)
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="42" height="42" />
+</p>
 
-**Stack:** HDFS, Apache Spark, Apache Iceberg, dbt-spark, Trino, Kafka, Airflow, Great Expectations, Prometheus, Grafana
+Python | Java | PHP | JavaScript | SQL
 
-Designed and deployed a distributed lakehouse across **3 Linux virtual machines**. Built **10 data models**, **11 passing tests**, **5 Airflow DAGs**, and **3 data-quality validations**. This case study is limited to information approved for public discussion.
+### Distributed Data Platforms
 
-### [Azure Medallion Pipeline](https://github.com/AIT-LAHCEN-REDOUAN/My_Profile/tree/main/04-project-portfolio/azure-medallion-pipeline)
+<p>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" title="Apache Spark" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" alt="Apache Kafka" title="Apache Kafka" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" alt="Apache Hadoop" title="Apache Hadoop" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Apache Hive" title="Apache Hive" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" title="Apache Airflow" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/trino/DD00A1" alt="Trino" title="Trino" width="42" height="42" />
+</p>
 
-**Stack:** Azure Data Factory, Azure Databricks, PySpark, ADLS Gen2, Azure Synapse Analytics, Power BI
+Apache Hadoop | HDFS | Apache Hive | Apache Spark | PySpark | Apache Kafka | Apache Iceberg | dbt-spark | Apache Airflow | Trino
 
-Built a **three-layer medallion pipeline** that ingests SQL Server and REST API data into ADLS Gen2, transforms it with Databricks, and exposes analytical views through Synapse and Power BI.
+### Cloud, Databases, and Analytics
 
-### [Edge Medical Inference](https://github.com/AIT-LAHCEN-REDOUAN/IOT_Project_2)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" title="Microsoft Azure" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" title="Databricks" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="42" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter Notebook" title="Jupyter Notebook" width="42" height="42" />
+</p>
 
-**Stack:** Python, PyTorch, MQTT, ThingsBoard, Docker, edge AI
+Microsoft Azure | Azure Data Factory | Azure Databricks | ADLS Gen2 | Azure Synapse Analytics | Power BI | Jupyter Notebook | PostgreSQL | SQL Server | MySQL | MongoDB
 
-Academic group project that evaluated model quantization and pruning across **3 constrained virtual-machine profiles**, with collective inference and IoT monitoring. The repository identifies the work as a group project.
+### Reliability, Monitoring, and Delivery
 
-## Core stack
+<p>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" title="Kubernetes" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" title="Prometheus" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" title="Grafana" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" width="42" height="42" />
+</p>
 
-- **Languages:** Python, SQL, Java
-- **Data engineering:** Apache Spark, PySpark, Kafka, Airflow, HDFS, Hive
-- **Reliability and delivery:** Great Expectations, Docker, Git
+Great Expectations | Docker | Kubernetes | Prometheus | Grafana | Git | GitHub
 
-## Currently exploring
+### Full Stack Development
 
-- The Azure ecosystem, with emphasis on cloud data integration, lakehouse architecture, and analytics services.
-- CCNA networking fundamentals, including routing, switching, and network troubleshooting.
+<p>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" title="Laravel" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js" width="42" height="42" />
+</p>
 
-## Focus
+Laravel | React | Next.js | REST APIs
 
-I am looking for Data Engineer opportunities where I can contribute to reliable data platforms while continuing to deepen my cloud and distributed-systems experience.
+### IoT, Edge AI, and Intelligent Systems
 
-## Recommended pinned repositories
+<p>
+  <img src="https://cdn.simpleicons.org/mqtt/660066" alt="MQTT" title="MQTT" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" alt="NVIDIA" title="NVIDIA" width="42" height="42" />
+</p>
 
-Pin these projects once their public repository README files include setup instructions, an architecture diagram, and evidence of the stated outcomes:
+IoT | MQTT | ThingsBoard | Edge AI | NVIDIA | Deep Learning
 
-1. Edge Medical Inference
-2. Cloudera Hadoop Data Engineering Labs
-3. Azure Medallion Pipeline
-4. Distributed Lakehouse case study, after publication approval
+## Links
+
+- LinkedIn: [linkedin.com/in/ait-lahcen-redouan](https://www.linkedin.com/in/ait-lahcen-redouan/)
+- Gmail: [aitlahcenredouan071@gmail.com](mailto:aitlahcenredouan071@gmail.com)
+- LeetCode: [leetcode.com/u/ait-lahcen-redouan](https://leetcode.com/u/ait-lahcen-redouan/)
+<!-- Add your verified Kaggle profile URL here before publishing. -->
