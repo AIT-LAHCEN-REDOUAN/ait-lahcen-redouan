@@ -1,6 +1,6 @@
 ## Technologies I Work With
 
-### Programming and Query Languages
+### Programming Languages
 
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="42" height="42" />
