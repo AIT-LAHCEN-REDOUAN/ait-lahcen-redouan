@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" title="Java" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" title="PHP" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="42" height="42" />
 </p>
